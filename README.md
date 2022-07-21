@@ -1,2 +1,2 @@
 # labs-on-c
-Labs works written on C++
+Lab works written on C++
